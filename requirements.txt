@@ -1,0 +1,3 @@
+pylast
+dotenv
+colorama
