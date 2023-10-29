@@ -21,7 +21,7 @@ API_SECRET=your_api_secret
 LASTFM_USERNAME=your_lastfm_username
 LASTFM_PASSWORD=your_lastfm_password
 ```
-5. Replace the song from `config.json` file
+5. Replace the song from `config.json` file, add scrobble limit (LIMIT) and interval between each scrobble (INTERVAL) in seconds.
 
 ## Usage
 1. Run the script with `python main.py`.

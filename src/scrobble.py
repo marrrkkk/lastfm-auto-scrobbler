@@ -40,6 +40,7 @@ except pylast.WSError as e:
     print(Fore.RED + f'Please check your creditentials at .env file\n{e}')
     sys.exit()
 
+# Scrobble
 def scrobble():
     try:
         scrobbles = 0
